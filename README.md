@@ -20,7 +20,7 @@ Comentários sobre o meu próprio projeto: Ter aprendido javascript me ajudou im
 <p align="right">(<a href="#indice">voltar ao indice</a>)</p>
  
 <h2 name="detalhes"> Detalhes da aplicação  </h2>
-A tabela original se chama WinFut e sua exportação ficou em apenas 5 colunas. Para o resultado final só precisei de uma coluna e as outras 4 podiam ser descartadas mas resolvi deixar que elas fossem visualizadas na exportação final, para ajudar o acompanhamento da lógica. Realmente, deixando elas fica muito mais fácil dar o OK no teste.
+A tabela original se chama WinFut e sua exportação ficou em apenas 5 colunas. Para o resultado final só precisei de uma coluna e as outras 4 podiam ser descartadas mas resolvi deixar que elas fossem visualizadas na exportação final, para ajudar o acompanhamento da lógica. Realmente, deixando elas fica muito mais fácil dar o OK no teste. <br />
 
 Candle - São uma faixa de horário. Ex: Candle das 10 vai das 10:00 até 10:59. <br />
 

@@ -22,7 +22,7 @@ Comentários sobre o meu próprio projeto: Ter aprendido javascript me ajudou im
 <h2 name="detalhes"> Detalhes da aplicação  </h2>
 A tabela original se chama WinFut e sua exportação ficou em apenas 5 colunas. Para o resultado final só precisei de uma coluna e as outras 4 podiam ser descartadas mas resolvi deixar que elas fossem visualizadas na exportação final, para ajudar o acompanhamento da lógica. Realmente, deixando elas fica muito mais fácil dar o OK no teste.
 
-Candle - São uma faixa de horário. Ex: Candle das 10 vai das 10:00 até 10:59.
+Candle - São uma faixa de horário. Ex: Candle das 10 vai das 10:00 até 10:59. <br />
 
 Coluna Max e Coluna Min - Recebem o valor Máximo e Mínimo da primeira linha e vão se atualizando sempre que encontrarem um valor maior ou menor que o atual. Sempre são resetadas nas linhas que começam com hora "09:00:00" e pegam seus novos valores nesta mesma linha.
 

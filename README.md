@@ -38,4 +38,4 @@ Off Topic - Curti o Python pela rapidez de processamento. Ele até mostra automa
 
 <h2 name="tecnologias">Tecnologias usadas</h2>
 #Python
-<p align="right">(<a href="#indice">voltar ao indice</a>)</p>
+<p align="right">(<a href="#indice">voltar ao indice</a>)</p> 
